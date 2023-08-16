@@ -1,0 +1,25 @@
+{
+  "goods": [
+    {
+      "title": "mac",
+      "description": "1",
+      "image": "https://asiastore.kg/image/cachewebp/catalog/mac/macbookpro13m2/spacegray/apple-macbook-pro-13p3-space-grey-m2-256gb-ssd-laptop-mneh3lla-half-closed-670x540.webp",
+      "price": "12",
+      "id": 8
+    },
+    {
+      "title": "dasdasd",
+      "description": "asdad",
+      "image": "https://cdn2.designbyhumans.com/product_images/p/1793513.82.3061cS7ay1Cm2MgcA-450x450-b-p.min.png",
+      "price": "9",
+      "id": 9
+    },
+    {
+      "title": "wew",
+      "description": "wewe",
+      "image": "https://cdn2.designbyhumans.com/product_images/p/1602077.82.d4befS7YyNNAptjIHAA-450x450-b-p.min.png",
+      "price": "123",
+      "id": 10
+    }
+  ]
+}
